@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-TeamWalkable built the VirtualRifle app as a Free app. This SERVICE is provided by TeamWalkable and is intended for use as is.
+TeamWalkable built the Walkable app as a Free app. This SERVICE is provided by TeamWalkable and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
