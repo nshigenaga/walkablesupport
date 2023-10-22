@@ -1,4 +1,4 @@
-# Walkable support
+# Privacy Policy for Walkable
 
 **Privacy Policy**
 
