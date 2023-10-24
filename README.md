@@ -18,7 +18,7 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app:
 
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   Unity https://unity3d.com/legal/privacy-policy
 
 **Log Data**
 
