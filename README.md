@@ -6,11 +6,11 @@ TeamWalkable built the Walkable app as a Free app. This SERVICE is provided by T
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to device Internet Protocol (“IP”) address, device name, operating system version. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to User name, UserID, VR headset model, a type of the platform. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
 
 The app does use third-party services that may collect information used to identify you.
 
