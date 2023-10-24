@@ -12,11 +12,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to device Internet Protocol (“IP”) address, device name, operating system version. The information that we request will be retained on your device and is not collected by us in any way.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to device Internet Protocol (“IP”) address, device name, operating system version. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Link to the privacy policy of third-party service providers used by the app:
 
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
@@ -61,7 +61,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This updated policy is effective as of 2023-10-23.
+This updated policy is effective as of 2023-10-24.
 
 **Contact Us**
 
