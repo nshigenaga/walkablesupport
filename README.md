@@ -10,7 +10,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to User name, UserID, VR headset model, a type of the platform. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the device Internet Protocol address, device name, operating system version, User name, User ID, VR headset model and a type of the platform. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
 
 The app does use third-party services that may collect information used to identify you.
 
