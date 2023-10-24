@@ -8,8 +8,6 @@ This page is used to inform visitors regarding our policies with the collection,
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Walkable unless otherwise defined in this Privacy Policy.
-
 **Information Collection and Use**
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to device Internet Protocol (“IP”) address, device name, operating system version. The information we request during the use of the app is stored only on your device. This information is not stored on any external servers or databases by TeamWalkable. However, our app utilizes third-party services, and these services might collect information in their own ways. Specifically, services like Unity may be relevant in this context. For the privacy policies of these third-party services, please refer to their respective official websites.
